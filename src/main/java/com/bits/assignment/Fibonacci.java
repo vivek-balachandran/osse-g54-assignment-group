@@ -1,5 +1,8 @@
 package com.bits.assignment;
 
+/**
+ * Added a main commment
+ */
 public class Fibonacci {
 
     public static void main(String[] args) {
