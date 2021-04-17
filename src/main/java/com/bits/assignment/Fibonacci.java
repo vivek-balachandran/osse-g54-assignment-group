@@ -1,7 +1,7 @@
 package com.bits.assignment;
-//This is a Fibonacci Series Program
-public class Fibonacci {
 
+public class Fibonacci {
+//Added a main commment
     public static void main(String[] args) {
 
         int n = 10, t1 = 0, t2 = 1;
