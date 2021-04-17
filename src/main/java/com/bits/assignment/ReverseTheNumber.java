@@ -4,7 +4,7 @@ public class ReverseTheNumber {
 
 	public static void main(String[] args) {
 
-		int num = 1234, reversed = 0;
+		int num = 456789, reversed = 0;
 
 		while (num != 0) {
 
