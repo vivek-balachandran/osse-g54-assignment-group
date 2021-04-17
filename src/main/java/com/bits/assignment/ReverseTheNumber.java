@@ -2,8 +2,6 @@ package com.bits.assignment;
 
 public class ReverseTheNumber {
 
-	private static final NUM=1234;
-
 	public static void main(String[] args) {
 
 		int num = 456789, reversed = 0;
