@@ -2,7 +2,7 @@
 ## This file is created to demonstrate the mark down format of Readme file
 ### This example is of heading 3 
 **You can see this text in bold**
-#Table is below
+# Table is below
 |Name|
 |----|
 |Vivek Lotlikar| 
