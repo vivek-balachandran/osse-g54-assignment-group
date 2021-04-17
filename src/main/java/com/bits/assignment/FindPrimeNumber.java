@@ -1,8 +1,9 @@
 package com.bits.assignment;
 
 /**
- * Hello world!
- *
+ * @see This class is used to find the given number is prime number or not
+ * @author VIVEK BALACHANDRAN
+ * @version 1.0
  */
 public class FindPrimeNumber {
 

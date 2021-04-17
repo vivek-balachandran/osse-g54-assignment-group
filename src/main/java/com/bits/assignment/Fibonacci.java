@@ -1,5 +1,11 @@
 package com.bits.assignment;
 
+/**
+ * @see This class is used to show the fibonacci series number
+ * @author VIVEK BALACHANDRAN
+ * @version 1.0
+ */
+
 public class Fibonacci {
 
     public static void main(String[] args) {

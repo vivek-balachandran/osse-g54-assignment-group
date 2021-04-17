@@ -1,5 +1,11 @@
 package com.bits.assignment;
 
+/**
+ * @see This class is used to reverse the given number
+ * @author VIVEK BALACHANDRAN
+ * @version 1.0
+ */
+
 public class ReverseTheNumber {
 
 	public static void main(String[] args) {
