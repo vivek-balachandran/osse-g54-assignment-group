@@ -1,9 +1,11 @@
 package com.bits.assignment;
 
 /**
- * Hello world!
- *
+ * @see This class is used to find the prime number based on input 
+ * @author VIVEK BALACHANDRAN
+ * @version 1.0
  */
+
 public class FindPrimeNumber {
 
 	  public static void main(String[] args) {
